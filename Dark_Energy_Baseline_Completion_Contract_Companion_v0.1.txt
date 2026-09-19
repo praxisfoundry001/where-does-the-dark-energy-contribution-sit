@@ -1,0 +1,546 @@
+STRUCTURAL FLOW — DARK ENERGY
+BASELINE-COMPLETION PHYSICAL-IDENTIFICATION CONTRACT COMPANION
+
+PURPOSE
+
+This file is the human-readable contract companion for the proposed physical identification:
+
+dark-energy-sensitive physical burden
+↔
+baseline geometry-side completion B
+
+inside the already-qualified classical metric-GR source/geometry relation.
+
+It is designed to remain in semantic parity with the machine contract append:
+
+Dark_Energy_Baseline_Completion_Contract_Append_v0.1.lean
+
+and to accompany the current compatible anchor artifact:
+
+Where Does the Dark-Energy Contribution Sit?
+A Geometry–Growth Test of Baseline, Source-Sector, and Modified-Coupling Interpretations
+
+The detailed empirical execution protocol is carried separately by the current compatible Dark Energy Baseline Seat Empirical Adjudication Experiment file.
+
+This companion does not assert an empirical dark-energy result. It records the exact structural burdens, empirical entry burdens, downstream burdens, disposition logic, machine correspondence, and reopening rules that govern adjudication of the proposed B-seat identification.
+
+----------------------------------------------------------------------
+1. AUTHORITY AND FILE ROLES
+----------------------------------------------------------------------
+
+The package separates four jobs.
+
+ANCHOR ARTIFACT
+Carries the readable physics argument, the competing physical seats, the geometry–growth discrimination, the falsifiers, and the scientific meaning of positive, negative, and indeterminate outcomes.
+
+CONTRACT COMPANION
+Carries the human-readable burden ledger and the exact adjudication logic that must remain aligned with the machine append.
+
+LEAN CONTRACT APPEND
+Carries the executable contract state and theorem surfaces against the Structural Flow Universal Translation Contract machinery.
+
+EMPIRICAL ADJUDICATION EXPERIMENT
+Carries execution-grade probe assignment, partitioning, parameterization, covariance, simulation, preregistration, threshold, and data-package details.
+
+If these files appear to disagree, the disagreement is a package defect to be repaired before adjudication. It is not resolved by silently choosing the most convenient wording.
+
+The machine append controls machine theorem names and executable disposition behavior. The anchor controls the public scientific exposition. This companion is the explicit bridge between them.
+
+----------------------------------------------------------------------
+2. CLAIM UNDER TEST
+----------------------------------------------------------------------
+
+At the declared classical metric-GR cosmological scope, the empirically dark-energy-sensitive physical burden is a physical realization of a baseline geometry-side completion B participating in the complete geometry-response side of the already-qualified source/geometry Strong Equationhood relation.
+
+THIS CONTRACT DOES NOT ASSUME THAT CLAIM IS TRUE.
+
+The claim is admitted for empirical adjudication only.
+
+Current physical-identification disposition:
+
+NOT YET ADJUDICABLE.
+
+Reason:
+The structural and contract-shape burdens required to formulate the identification are discharged at the declared scope, while the required dark-energy-specific empirical entry burdens remain OPEN.
+
+----------------------------------------------------------------------
+3. DECLARED OBJECT, LEVEL, AND SCOPE
+----------------------------------------------------------------------
+
+OBJECT
+The object under adjudication is the physical seat of the dark-energy-sensitive contribution B.
+
+LEVEL
+The adjudication is at the role / relation level of classical metric-GR cosmology. It is not a microscopic, quantum, field-theoretic-origin, or ultimate-ontology claim.
+
+SCOPE
+The claim concerns whether the dark-energy-sensitive burden occupies baseline geometry-side completion inside the already-qualified source/geometry relation over the declared observational and theoretical scope of the empirical test.
+
+IDENTITY FIREWALL
+B is not identified merely by algebraic position or symbol. The proposed B-seat must remain distinguishable from:
+
+- ordinary source-profile;
+- curvature/source-facing geometry response;
+- the source/geometry relation package itself;
+- a boundary or bookkeeping residue;
+- a mere coefficient convention;
+- an independent source-sector degree of freedom;
+- a modified source/geometry relation.
+
+Changing the physical job changes the tested identification even if the notation is retained.
+
+----------------------------------------------------------------------
+4. STRUCTURAL INPUT ALREADY EARNED
+----------------------------------------------------------------------
+
+The contract inherits the following structural results from the governing derivation:
+
+1. complete geometry-response is independently located as one side burden;
+2. complete source-profile is independently located as the other side burden;
+3. the two sides have distinguishable side failures;
+4. source-profile and geometry-response exhibit two-way relation-level demand-change without requiring mutual causal determination;
+5. a particular source/geometry relation can fail while both sides and the generic relation architecture survive;
+6. the two sides occupy a compatible relation level at the declared classical metric-GR role scope;
+7. the relation carries a Source/Geometry Joint-Accounting Invariant: lawful redescription or repartition of the same admitted physical relation preserves the same joint source/geometry accounting burden;
+8. Coherence supplies the remaining one-whole hold after those qualifications are established, licensing Strong Equationhood at the declared role-translation scope;
+9. where independently admitted, baseline contribution B is internal completion of the geometry-response side rather than an independent third equation side.
+
+These results establish the shape of the empirical question. They do not establish that a physical dark-energy contribution actually occupies B's seat.
+
+----------------------------------------------------------------------
+5. UNIVERSAL CORE BURDENS
+----------------------------------------------------------------------
+
+The machine contract inherits the fixed UniversalTranslationContract.CoreBurden set:
+
+C1. surfaceWarrant
+A lawful adjudication surface exists for the proposed translation.
+
+C2. sourceCarrierPin
+The source / carrier from which the translated burden is being read is fixed.
+
+C3. objectPin
+The object under adjudication is fixed rather than changed during the test.
+
+C4. levelPin
+The adjudication level is fixed.
+
+C5. scopePin
+The physical and empirical scope is fixed.
+
+C6. structuralPreservation
+The translation preserves the structural burden it claims to carry.
+
+C7. nonCircularity
+The result is not obtained by using the proposed identification to define the evidence that is then cited for the identification.
+
+C8. identityFirewall
+A neighboring object, role, representation, or bookkeeping convention is not silently substituted for the tested object.
+
+CURRENT MACHINE STATE
+All core burdens are DISCHARGED in the frozen contract world by `coreDischarged`.
+
+This means the contract surface has been structurally admitted. It does not mean the empirical dark-energy identification has been established.
+
+A later contradiction reaching a required core burden reopens or defeats the translation at that dependency.
+
+----------------------------------------------------------------------
+6. OBJECT-SPECIFIC STRUCTURAL BURDENS
+----------------------------------------------------------------------
+
+The Lean append defines five required ObjectBurden constructors. All five are required and currently DISCHARGED as contract shape by `objectDischarged`.
+
+O1. baselineRolePreserved
+Human-readable name: BASELINE ROLE PRESERVATION.
+
+B must remain distinguishable from ordinary source-profile, curvature/source-facing geometry response, the relation package, boundary residue, and mere coefficient bookkeeping.
+
+O2. geometrySideCompletion
+Human-readable name: GEOMETRY-SIDE COMPLETION.
+
+Where B is admitted, B participates in complete geometry-response rather than constituting an independent third side.
+
+O3. relationParticipation
+Human-readable name: RELATION PARTICIPATION.
+
+B enters the already-earned source/geometry relation through complete geometry-response without redefining the relation package or creating a new equation side by stipulation.
+
+O4. jointAccountingInvariant
+Human-readable name: JOINT-ACCOUNTING INVARIANT.
+
+Lawful redescription or repartition of the same B-bearing physical relation must preserve the same joint source/geometry accounting burden. Equivalent bookkeeping may move formal placement; it may not erase, duplicate, or change the physical burden by notation alone.
+
+O5. distinctRemovalSignature
+Human-readable name: DISTINCT REMOVAL SIGNATURE.
+
+If B is genuinely required at the tested physical seat, removing B while retaining ordinary source-profile and the admitted relation architecture must leave a distinguishable accounting deficit.
+
+CURRENT OBJECT STATUS
+O1–O5 are DISCHARGED AS STRUCTURAL CONTRACT BURDENS.
+
+That status means the proposed B-seat has a sufficiently definite structural shape to be empirically tested. It does not mean a physical B realization has been observed.
+
+----------------------------------------------------------------------
+7. DOMAIN-ENTRY EMPIRICAL BURDENS
+----------------------------------------------------------------------
+
+The Lean append defines four domain-entry burdens. These are the empirical gates for positive B-seat identification.
+
+All four are required.
+
+E1. baselineSeatWarrant
+Human-readable name: BASELINE-SEAT WARRANT.
+
+Independent physical evidence must support a dark-energy-sensitive contribution B whose operative role is not exhausted by the already-accounted ordinary source-profile and which is admissible as baseline geometry-side completion.
+
+A mathematically available term is insufficient.
+
+CURRENT STATE: OPEN.
+
+E2. removalNecessity
+Human-readable name: REMOVAL / NECESSITY DISCRIMINATION.
+
+With independently admitted ordinary source-profile and the reference source/geometry relation retained, removing B must produce the predeclared reproducible deficit associated with loss of the proposed seat.
+
+The deficit may not be repaired by relabeling the same contribution, moving bookkeeping notation, redefining the sides, broadening ordinary source content after the result is known, or modifying the relation while continuing to call the hypothesis Hᴮ.
+
+CURRENT STATE: OPEN.
+
+E3. jointAccountingEvidence
+Human-readable name: JOINT-ACCOUNTING INVARIANCE.
+
+Independent geometry-sensitive, growth/source-sensitive, and joint evidence must support one B-bearing physical account, and lawful equivalent representations of that same physical state must preserve the same account.
+
+A validated physical incompatibility between the independently inferred B-bearing accounts violates this burden.
+
+An unresolved representation-dependent pipeline discrepancy does not automatically support a competing physical seat. It blocks adjudication until the analysis / translation defect is resolved.
+
+CURRENT STATE: OPEN.
+
+E4. alternativeSeatDiscrimination
+Human-readable name: ALTERNATIVE-SEAT DISCRIMINATION.
+
+The evidence must discriminate baseline geometry-side completion from:
+
+- an independent dark-energy source-sector degree of freedom;
+- a modified source/geometry relation package;
+- a mere bookkeeping artifact;
+- a mixed or unresolved physical realization.
+
+If an independent source-sector seat or modified-relation seat is required, Hᴮ does not close.
+
+If the seats remain observationally degenerate or a mixed state survives without adjudication, the result remains OPEN rather than being counted as partial support for Hᴮ.
+
+CURRENT STATE: OPEN.
+
+----------------------------------------------------------------------
+8. DOMAIN-DOWNSTREAM BURDENS
+----------------------------------------------------------------------
+
+The Lean append separates the four entry burdens from six downstream burdens.
+
+These downstream burdens do not gate the proposed B-seat structural identification unless a later scoped claim explicitly promotes one of them into the admission question.
+
+D1. microscopicOrigin
+Microscopic or field-theoretic origin of the identified contribution.
+
+D2. vacuumEnergyInterpretation
+Whether the contribution should be identified with vacuum energy or another vacuum-sector construction.
+
+D3. quantumRelation
+Its relation to quantum theory or quantum gravity.
+
+D4. magnitudeOrigin
+Why the measured magnitude has the value it does.
+
+D5. outsideScopeBehavior
+Behavior outside the observational / theoretical scope in which the B-seat identification was earned.
+
+D6. cosmologicalCompleteness
+Whether the identified contribution provides a complete cosmological account beyond the narrow seat claim.
+
+CURRENT STATE
+All six downstream burdens are OPEN in `currentDomainState`.
+
+POSITIVE IDENTIFICATION DOES NOT REQUIRE D1–D6 TO CLOSE.
+
+The machine append explicitly proves this separation: `positiveWorld_structuralConforms` may hold while `positiveWorld_downstreamOpen` also holds.
+
+----------------------------------------------------------------------
+9. EVIDENCE SHELL AND FUTURE ADAPTER
+----------------------------------------------------------------------
+
+The current Lean append encodes the contract state, not the external physical evidence itself.
+
+Its present generic evidence predicate is an evidence shell:
+
+`evidence`
+
+A future evidence-bearing adapter may strengthen the evidence relation without changing the burden partition or rewriting the contract questions.
+
+The empirical adapter must report evidence against the frozen burdens rather than redefine those burdens from the observed result.
+
+At minimum, the evidence handoff must support an auditable disposition assignment for E1–E4:
+
+DISCHARGED
+The required empirical burden is positively met under the frozen test.
+
+VIOLATED
+The required empirical burden is positively contradicted under the frozen test.
+
+OPEN
+The evidence does not yet discharge or violate the burden.
+
+----------------------------------------------------------------------
+10. EXPERIMENTAL HANDOFF
+----------------------------------------------------------------------
+
+The empirical adjudication experiment operationalizes E1–E4 through four connected stresses.
+
+A. GEOMETRY / GROWTH SPLIT
+
+Geometry-dominant evidence G and growth/source-dominant evidence S infer separate candidate baseline descriptions Bᴳ(z) and Bˢ(z). Their equality is not imposed before the test. Joint probes J test whether the independently supported account survives reunion.
+
+A validated incompatibility between the required B-bearing accounts pressures or violates E3 / E4 according to the frozen evidence mapping.
+
+B. REMOVAL TEST
+
+H₀ retains ordinary source-profile and the reference relation while removing B.
+
+Hᴮ retains the same architecture and includes B.
+
+A positive B-seat identification requires the distinctive removal deficit specified in advance. Absence of that required loss violates E2 if the test has sufficient power and the relevant controls pass.
+
+C. REPRESENTATION-INVARIANCE CONTROL
+
+The same physical B-bearing model is implemented in algebraically equivalent geometry-side and effective source-side bookkeeping representations.
+
+Equivalent representations must recover the same physical account within the frozen reproducibility tolerance.
+
+A representation-dependent discrepancy is a protocol / translation failure until resolved. It is not, by itself, evidence for Hᴮ, Hˢ, or Hᴷ.
+
+D. ALTERNATIVE-SEAT COMPETITION
+
+Hᴮ — baseline geometry-side completion.
+
+Hˢ — independent source-sector realization.
+
+Hᴷ — modified source/geometry relation.
+
+Hᴹ — mixed, other, or unresolved realization.
+
+Hᴹ is not a positive fallback. It leaves the B-seat identification open unless and until a later scoped contract is derived.
+
+Execution-grade definitions of G / S / J membership, B parameterization, covariance, nuisance structure, simulation calibration, thresholds, blinding, multiplicity correction, and data releases belong to the empirical protocol rather than this companion.
+
+----------------------------------------------------------------------
+11. VERDICT LOGIC
+----------------------------------------------------------------------
+
+A. POSITIVE — STRUCTURAL CONFORMS
+
+Human meaning:
+The proposed physical dark-energy identification conforms to the frozen baseline-completion contract at the declared scope.
+
+Required entry state:
+E1 = DISCHARGED
+E2 = DISCHARGED
+E3 = DISCHARGED
+E4 = DISCHARGED
+
+Required accompanying condition:
+No required universal core burden or object-specific burden is violated.
+
+Machine world:
+`positiveWorld`
+
+Machine theorem:
+`positiveWorld_structuralConforms`
+
+Important downstream result:
+`positiveWorld_downstreamOpen`
+
+Therefore positive structural identification does not imply closure of D1–D6.
+
+B. NEGATIVE — NO LAWFUL TRANSLATION
+
+Human meaning:
+The proposed baseline-completion identification fails at the declared scope.
+
+Generic rule:
+Any required core burden, required object burden, or required domain-entry burden assigned VIOLATED constitutes a known failure under the Universal Translation Contract and blocks structural conformance.
+
+The current dark-energy append includes one explicit negative example world in which:
+
+E1 `baselineSeatWarrant` = VIOLATED,
+E2–E4 = DISCHARGED,
+D1–D6 = OPEN.
+
+Machine world:
+`negativeWorld`
+
+Machine theorem:
+`negativeWorld_noLawfulTranslation`
+
+That explicit world demonstrates the negative headline with E1 as the witness. It does not restrict the generic negative logic to E1; the universal machinery treats any required violated entry burden as a `KnownFailure.domainEntry`.
+
+A negative B-seat result does not negate the empirical dark-energy phenomenon. It rejects or reopens this physical seat identification.
+
+C. INDETERMINATE — NOT YET ADJUDICABLE
+
+Human meaning:
+No required burden is known to fail, but at least one required adjudication burden remains open.
+
+Current entry state:
+E1 = OPEN
+E2 = OPEN
+E3 = OPEN
+E4 = OPEN
+
+Machine world:
+`currentWorld`
+
+Machine support:
+`currentWorld_noKnownFailure`
+`currentWorld_hasKnownOpen`
+`currentWorld_notYetAdjudicable`
+
+This is the current contract disposition.
+
+Absence of a known failure is not positive identification.
+
+----------------------------------------------------------------------
+12. EXACT MACHINE CORRESPONDENCE
+----------------------------------------------------------------------
+
+Namespace:
+`StructuralFlow.DarkEnergyBaselineContract`
+
+Object burden type:
+`ObjectBurden`
+
+Object constructors:
+`baselineRolePreserved`
+`geometrySideCompletion`
+`relationParticipation`
+`jointAccountingInvariant`
+`distinctRemovalSignature`
+
+Domain burden type:
+`DomainBurden`
+
+Entry constructors:
+`baselineSeatWarrant`
+`removalNecessity`
+`jointAccountingEvidence`
+`alternativeSeatDiscrimination`
+
+Downstream constructors:
+`microscopicOrigin`
+`vacuumEnergyInterpretation`
+`quantumRelation`
+`magnitudeOrigin`
+`outsideScopeBehavior`
+`cosmologicalCompleteness`
+
+State surfaces:
+`currentDomainState`
+`positiveDomainState`
+`negativeDomainState`
+
+World surfaces:
+`currentWorld`
+`positiveWorld`
+`negativeWorld`
+
+Current-state theorems:
+`currentWorld_noKnownFailure`
+`currentWorld_hasKnownOpen`
+`currentWorld_notYetAdjudicable`
+
+Positive-state theorems:
+`positiveWorld_structuralConforms`
+`positiveWorld_downstreamOpen`
+
+Negative-state theorem:
+`negativeWorld_noLawfulTranslation`
+
+Human-readable machine aliases:
+`EmpiricallyOpen`
+`PositiveIdentification`
+`NegativeIdentification`
+
+Combined machine checkpoint:
+`darkEnergyBaselineContract_machineCheckpoint`
+
+Checkpoint meaning:
+
+`EmpiricallyOpen ∧ PositiveIdentification ∧ NegativeIdentification`
+
+This theorem confirms that the current open state, future positive state, and explicit future negative state are all machine-located within the same frozen contract architecture.
+
+The current append has been run cleanly twice against the current Universal Kernel in the Lean browser environment, with no messages.
+
+----------------------------------------------------------------------
+13. REOPENING AND VERSION-DISCIPLINE RULES
+----------------------------------------------------------------------
+
+The contract is frozen at the level of burden identity and verdict meaning.
+
+Decisive empirical evidence changes burden dispositions. It does not rewrite the question after the result is known.
+
+A NEW OR REOPENED CONTRACT is required if any of the following changes materially:
+
+1. the object under identification;
+2. the physical job assigned to B;
+3. the declared level or scope;
+4. the distinction between baseline completion, independent source sector, and modified relation;
+5. a required universal core burden;
+6. an object-specific structural burden;
+7. the meaning of E1–E4;
+8. the positive / negative / open disposition logic;
+9. the tested relation package;
+10. the hypothesis is broadened after the decisive result in order to absorb a failed burden.
+
+A PROTOCOL REVISION rather than a contract rewrite may be sufficient when:
+
+- a later survey supplies more powerful data;
+- an equivalent likelihood implementation replaces an older one;
+- numerical precision improves;
+- simulation power improves;
+- a new data package increases sensitivity while preserving the same frozen burden meanings and comparison architecture.
+
+Such protocol changes must still preserve preregistration and non-circularity for the decisive test they govern.
+
+Compatible future public package references should use the project's `+` convention where appropriate so that non-semantic editorial or implementation iterations do not create update echoes across the package.
+
+----------------------------------------------------------------------
+14. PACKAGE CLOSURE STATE
+----------------------------------------------------------------------
+
+STRUCTURAL CONTRACT SHAPE
+CLOSED at the declared scope.
+
+OBJECT-SPECIFIC BURDENS O1–O5
+DISCHARGED as structural contract burdens.
+
+EMPIRICAL ENTRY BURDENS E1–E4
+OPEN.
+
+DOWNSTREAM BURDENS D1–D6
+OPEN and non-gating for the present identification claim.
+
+CURRENT MACHINE DISPOSITION
+NotYetAdjudicable.
+
+POSITIVE MACHINE DISPOSITION IF E1–E4 DISCHARGE
+StructuralConforms.
+
+NEGATIVE MACHINE DISPOSITION IF A REQUIRED GATING BURDEN IS VIOLATED
+NoLawfulTranslation for the proposed B-seat identification at the declared scope.
+
+The contract therefore ends where the anchor artifact ends:
+
+The source/geometry relation is structurally located.
+The proposed baseline geometry-side seat is structurally testable.
+The physical dark-energy identification remains an empirical question.

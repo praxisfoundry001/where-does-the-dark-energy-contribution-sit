@@ -1,0 +1,295 @@
+﻿Where Does the Dark-Energy Contribution Sit?
+A Geometry–Growth Test of Baseline, Source-Sector, and Modified-Coupling Interpretations
+I. The Physical Identification Problem
+The dark-energy problem is usually expressed through parameters, models, and observational fits. A different question sits underneath those comparisons: what physical role is the dark-energy-sensitive contribution actually playing in the source/geometry relation?
+At classical metric-GR scope, the Einstein equation may be written
+Gμν + Λgμν = κTμν,
+with the cosmological term placed on the geometric side. The same term can be moved algebraically and represented as part of an effective source description. Both forms are mathematically legitimate.[1] The change in notation does not, by itself, decide whether the underlying physical contribution is best understood as geometric, source-like, or as evidence that the relation between geometry and sources requires modification.
+That leaves at least three physically distinct seats open.
+The first is a baseline geometry-side contribution. Under this hypothesis, a contribution B belongs within the complete geometric response. Schematically,
+geometry response = curvature response + B.
+The notation B is deliberately broader than Λ at the structural level: baseline geometry-side completion is not identified universally with one microscopic or cosmological realization. The present experiment is narrower. At its declared classical metric-GR scope, with the reference source profile separately conserved and the source/geometry relation unchanged, Hᴮ instantiates B as a metric-proportional baseline contribution Bμν = βgμν with constant β.[1] A different geometry-side baseline realization would require a separately scoped or reopened empirical contract. The present claim therefore tests whether the dark-energy-sensitive burden occupies this Λ-like baseline seat without assuming a particular magnitude, microscopic origin, or vacuum-energy interpretation.
+The second possibility is an independent source-sector realization. Here the additional burden belongs to the physical source description. A successful realization could carry source-sector behavior not exhausted by baseline geometric completion—for example perturbation, clustering, stress, propagation, or evolution structure, depending on the model being tested. The relevant point is not that the same mathematics can be rewritten as an effective stress-energy term. Formal rewriting alone cannot establish an independent physical source degree of freedom.[2]
+The third possibility is a modified source/geometry relation. In this case the source and geometry sectors remain meaningful, but the relation connecting them is not adequately represented by the reference classical coupling across the tested scope. The dark-energy-sensitive effect is then better located in the response architecture itself than in either an additional source component or a baseline completion of the geometric side.[3]
+These alternatives can reproduce overlapping background phenomenology. A successful fit to the expansion history therefore does not, by itself, locate the physical burden.
+The experiment proposed here is designed around that distinction.
+Let
+Hᴮ
+denote the baseline geometry-side hypothesis,
+Hˢ
+the independent source-sector hypothesis,
+and
+Hᴷ
+the modified-relation hypothesis.
+A fourth comparison category, 
+Hᴹ,
+is reserved for mixed or unresolved outcomes. Hᴹ is not a weakened success state for any of the primary hypotheses. It covers cases in which more than one seat is required, the available observations cannot distinguish the alternatives, or the tested comparison family is inadequate.
+The central question is therefore not simply:
+Which dark-energy model fits best?
+It is:
+Which physical seat does the dark-energy-sensitive contribution occupy?
+That question imposes a stronger experimental burden than ordinary model comparison. A proposed seat should have a distinguishable consequence when removed. Its inferred contribution should remain compatible across observational channels that constrain different parts of the source/geometry relation. Equivalent mathematical representations of the same physical state should not produce different physical conclusions. And explicit alternative seats must be allowed to defeat the preferred hypothesis rather than being absorbed into it after the result is known.
+For Hᴮ, these requirements have a particularly useful consequence. If B genuinely belongs to the geometric side, then geometry-sensitive observations and growth/source-sensitive observations should be capable of supporting one common B-bearing physical account while the reference source/geometry relation remains adequate. Removing B should produce a specific deficit that cannot be repaired merely by relabeling the same contribution. And moving the same B-bearing term between algebraically equivalent sides of the field equation should not change the inferred physics.
+Conversely, Hᴮ should fail if the observations instead require an independent source-sector degree of freedom, require a change to the source/geometry relation, fail to show a distinctive consequence when B is removed, or require incompatible B-bearing descriptions across independently constrained observational channels.
+This turns the dark-energy identification problem into a seat-discrimination problem with genuine falsifiers.
+The aim is not to force the observations into one of the three primary seats. A result may remain mixed or unresolved. Nor does a successful seat identification settle every question about the physical realization occupying that seat. Its microscopic origin, quantum interpretation, parameter values, long-term behavior, and relation to other open cosmological problems remain separate questions unless the evidence under consideration independently answers them.
+The narrower goal is to determine whether the available physical evidence can support one of the following statements at a declared scope:
+the dark-energy-sensitive contribution behaves as baseline geometric completion;
+it requires independent source-sector structure;
+it requires modification of the source/geometry relation;
+or
+the observations do not yet discriminate those possibilities.
+The remainder of this work develops a geometry–growth test capable of making that distinction, states the conditions under which each seat survives or fails, and then shows why those particular discriminations form one coherent identification contract.
+II. A Geometry–Growth Seat Test
+Distinguishing the candidate seats requires more than fitting several cosmological models to the same combined data and ranking their likelihoods. If the same fit defines the ordinary source profile, infers the candidate baseline contribution, tests its consequences, and decides whether competing seats are necessary, the proposed identification can partly manufacture the evidence used to support itself.
+The experiment therefore separates not only geometry from growth, but also the information used to establish the reference physical state from the information used to test the candidate contribution.
+The first layer, A, is the reference/source anchor. Its job is to constrain the admitted ordinary source profile and the reference quantities required by the classical metric-GR comparison without using the late-time B-seat hypothesis to define them. A need not return perfectly known parameters; it may carry an uncertainty distribution or likelihood into every tested hypothesis. What matters is that the same anchored ordinary-source uncertainty is available to H₀, Hᴮ, Hˢ, and Hᴷ. Any ordinary reference freedom that cannot be independently constrained remains free across the comparison rather than being silently fixed in a way that makes B necessary.
+The late-time observational burden is then separated into three familiar roles. G is geometry-dominant and contains observations used principally to constrain expansion and distance structure, such as supernova distance information, geometric BAO measurements, and Alcock–Paczynski information. S is growth/source-dominant and contains observations capable of constraining the development and distribution of structure under the frozen reference relation. J contains observations whose interpretation intrinsically couples geometry and growth rather than permitting a clean independent assignment.[4] [5]
+The partition is methodological rather than ontological. Real cosmological probes do not divide perfectly into isolated physical channels. The purpose is to prevent one combined inference from defining both sides of the discrimination. Probe membership, overlap treatment, covariance, nuisance structure, shared calibration information, and allowable parameter freedoms are therefore fixed before decisive analysis.
+Before any physical verdict is allowed, the analysis itself has to be admissible. End-to-end synthetic worlds representing H₀, Hᴮ, Hˢ, Hᴷ, and mixed or unresolved cases are passed through the frozen pipeline. The analysis must recover the injected physical seat with adequate power over the effect-size range it later claims to discriminate. Equivalent geometry-side and effective source-side representations of the same Hᴮ physical state must also recover the same inference within a predeclared numerical tolerance. Failure of these controls produces no dark-energy verdict. It means the affected empirical burdens remain open until the analysis is capable of adjudicating them.
+At the scope tested here, Hᴮ has a particularly sharp physical realization. The broader structural B-seat is instantiated as
+Bμν = βgμν,
+where β is constant under the retained classical metric-GR relation and separately conserved ordinary source profile. With ∇μGμν = 0, ∇μgμν = 0, and ∇μTμν = 0, the reference equation then requires ∂νβ = 0. The experiment therefore does not grant Hᴮ an arbitrary β(z) capable of absorbing disagreement after the fact. Redshift-binned or otherwise flexible reconstructions may still be used as diagnostic stresses, but robustly required evolution counts against this scoped realization rather than enlarging it.
+The baseline-free reference hypothesis H₀ retains the same admitted ordinary source profile and the same source/geometry relation but sets β = 0. Hᴮ differs by admitting the constant metric-proportional baseline contribution. Hˢ retains the reference gravitational relation but requires an independent source-sector degree of freedom not exhausted by an algebraic rewriting of βgμν. Hᴷ retains identifiable source and geometry sectors but requires modification of the relation connecting them. Hᴹ covers a positively required mixture, an outside-family realization, or an observationally unresolved seat.
+The empirical adjudication then proceeds through the four entry burdens of the frozen contract.
+E1 asks whether the baseline seat is physically warranted. Using A to carry the independently anchored ordinary-source/reference burden, G estimates the candidate constant baseline amplitude
+βᴳ.
+The equality of geometry and growth inferences is not imposed here because growth has not yet been allowed to define the candidate. The question is narrower:
+With the ordinary/reference burden anchored independently, does late-time geometry require a nonzero constant β beyond the baseline-free reference?
+E1 is discharged when an adequately powered, preregistered geometry analysis requires that candidate contribution under the frozen comparison. It is violated when an adequately powered analysis establishes that no distinct β is required, or when the data positively require a physical form incompatible with the scoped constant-baseline realization. It remains open when the source anchor, geometry information, or systematics do not permit the question to be decided.
+A flexible β(z) reconstruction may be used as a falsification diagnostic at this stage. Statistically robust required evolution that survives the frozen controls does not become extra freedom for Hᴮ. It defeats the constant metric-proportional realization being tested and moves the unresolved burden toward an independent source-sector, modified-relation, mixed, or otherwise reopened description.
+E2 asks whether the candidate has a distinctive removal consequence. The information used to earn βᴳ cannot also serve as independent confirmation that removing β causes the predicted loss. After E1, the candidate β is therefore frozen and tested against held-out evidence V that did not determine it. V is a data-use designation rather than a new physical sector; an implementation may reserve entire probe blocks or use a preregistered cross-fitting design so that each decisive removal test remains out-of-sample relative to the β estimate.
+The frozen comparison is then:
+Hᴮ: β = βᴳ,
+against
+H₀: β = 0,
+with the ordinary-source anchor, source/geometry relation, nuisance definitions, and allowed reference freedoms unchanged.
+Before the held-out evidence is exposed, Hᴮ predicts the observational change associated with removing the already-earned β. The question is therefore not simply whether the total fit becomes worse. It is:
+Does removal of the already-earned β produce the specific predeclared deficit predicted in evidence that did not earn β?
+No new dark component may be introduced to repair the removed-B state. β is not refit. The source sector is not broadened after the residual is seen. The source/geometry relation is not modified while the test continues to be called Hᴮ.
+E2 is discharged when the held-out deficit has the predicted character and restoring the frozen β repairs it. It is violated when an adequately powered held-out test shows no distinctive loss or an incompatible loss. It remains open when the held-out evidence or its systematic controls lack sufficient power.
+E3 asks whether one physical account survives independent reconstruction and reunion. The growth/source partition S therefore estimates its own baseline amplitude
+βˢ
+under the same A anchor and unchanged reference relation. G and S are not required to be statistically isolated from every shared calibration or cosmological parameter; those dependencies must instead be carried through the frozen covariance and nuisance structure. What they may not do is inherit equality of the baseline contribution by construction.
+The split is
+Δβ = βᴳ − βˢ,
+with a covariance-aware discrepancy statistic calibrated before decisive unblinding. Existing geometry–growth split analyses provide methodological precedent for this kind of independent consistency test, while the βᴳ/βˢ construction here is used specifically for physical-seat discrimination.[6]
+If S cannot constrain β independently without importing the geometry assumption that would make βˢ = βᴳ by construction, E3 does not discharge. It remains open.
+J then provides the reunion surface. A common baseline account independently compatible with G and S must also predict observations in which geometry and growth are intrinsically coupled. Equivalent algebraic representations of the same B-bearing state must preserve that same physical inference.
+E3 is discharged only when βᴳ and βˢ are compatible under the frozen criterion, the common account survives J, and equivalent bookkeeping representations agree within the predeclared computational tolerance. A validated physical incompatibility violates E3. A representation-dependent pipeline discrepancy does not favor another physical seat; it invalidates the adjudication until the analysis is repaired.
+E4 asks whether the surviving contribution actually occupies the baseline seat rather than one of the serious alternatives. That burden cannot be discharged merely because one selected source-sector model and one selected modified-gravity model fit less well. A finite experiment cannot honestly exhaust every imaginable physical realization.
+The competitor family is therefore declared before unblinding as an observable comparison envelope. The Hˢ family must permit the independent source-sector behavior the experiment claims to distinguish over its stated scope, including relevant background evolution and, where observable, perturbation, clustering, stress, propagation, or analogous source behavior. The Hᴷ family must permit relation-level departures detectable through the admitted observations, such as altered growth or lensing response, scale or redshift dependence, gravitational slip, or an equivalent domain-owned modified-relation parameterization.[7]
+The exact competitor basis remains physics-owned. What the experiment must establish before using non-detection as evidence is coverage and power: injection/recovery tests have to demonstrate the region of source-seat and relation-seat departures that the frozen pipeline would detect and classify at the declared redshift, scale, and precision scope.
+Only inside that demonstrated sensitivity envelope can absence of an alternative count toward E4.
+E4 is discharged when Hᴮ has survived E1 through E3 and no independent source-seat or modified-relation contribution is required within the preregistered comparison class and demonstrated sensitivity envelope. It is violated when the evidence positively requires an independent source-sector realization, a modified relation, or a genuinely mixed realization incompatible with the single B-seat claim. It remains open when the alternatives are observationally degenerate, lie below demonstrated sensitivity, the comparison class is inadequate, or an unexplained departure cannot yet be assigned to a seat.
+The resulting falsification logic is finite.
+
+
+Experimental result 
+	Contract consequence 
+	Reference anchor or non-circularity fails 
+	Run inadmissible; affected empirical burdens remain open. 
+	Equivalent representations disagree computationally 
+	Protocol/translation failure; no physical seat verdict. 
+	Adequately powered geometry test finds no required β 
+	E1 violated. 
+	The data require physical evolution incompatible with constant β at the frozen scope 
+	E1 violated; E4 may locate the alternative if the evidence permits. 
+	Frozen β produces no predicted held-out removal deficit 
+	E2 violated. 
+	βᴳ and βˢ are physically incompatible after frozen controls 
+	E3 violated. 
+	S cannot independently identify β 
+	E3 open. 
+	An independent source-sector degree of freedom is positively required 
+	E4 violated. 
+	A modified source/geometry relation is positively required 
+	E4 violated. 
+	A genuinely mixed realization is positively required 
+	E4 violated for the single-seat Hᴮ claim. 
+	Alternative seats remain observationally degenerate 
+	E4 open. 
+	Competitor coverage or statistical power is inadequate 
+	E4 open. 
+	A positive baseline-seat result therefore requires more than a successful fit. The analysis must itself be admissible; A must preserve an independently anchored ordinary-source/reference burden; G must require the constant β; removal of that frozen β must produce the predicted out-of-sample loss; S must independently support a compatible β; the common account must survive J and representation-invariance testing; and the validated competitor program must find no required source-seat or modified-relation contribution within its demonstrated sensitivity envelope.
+A negative result requires an actual violation of at least one necessary empirical burden.
+Everything else is indeterminate.
+The statistical thresholds, global error criterion, competitor-specific sensitivity envelope, nuisance freedoms, partition rules, and classification procedure are all frozen before decisive analysis and calibrated through end-to-end simulations. No particular numerical significance threshold is derived by the structural argument itself; the requirement is that the chosen criterion be declared in advance and that the experiment demonstrate the power associated with the exclusions it later claims.
+The experiment therefore asks whether one physical contribution can occupy the scoped baseline geometry-side seat without changing identity when ordinary source content is independently anchored, when the candidate is removed out-of-sample, when geometry and growth interrogate it independently, when joint observations reunite those burdens, when equivalent mathematics moves the same term across the equation, and when serious alternative seats are given a demonstrably detectable opportunity to defeat it.
+That is the burden Hᴮ has to survive.
+III. Why These Discriminations Belong Together
+The geometry–growth split, removal test, competing seats, and representation-invariance control were not assembled independently and then grouped into one experiment. They arise from a single structural question: what has to remain distinguishable before a dark-energy-sensitive contribution can be assigned a physical role inside the classical source/geometry relation?
+The derivation begins with structures already supplied by physics. At the declared classical metric-GR scope, Gμν carries the geometry-response role, Tμν carries the source-profile role, and the theory supplies the relation through which those roles face one another. Structural Flow does not derive those physical objects or the Einstein field equation. It asks what structural burdens they carry once admitted.[8]
+The first useful distinction concerns the Λ-facing term itself. The written expression
+Gμν + Λgμν = κTμν
+contains three visible terms, but visible terms do not automatically correspond to three independent sides of a relation. The relevant grouping has to follow physical and structural job.
+The source side carries the admitted stress-energy profile. The geometry side carries the admitted geometric response. A baseline contribution such as Λgμν, where independently warranted, changes what the complete geometry side contains; it is not required merely for source and geometry to face one another at all. Baseline-free source/geometry relations remain meaningful.
+That is why the candidate B is treated here as geometry-side completion rather than as an independent third side:
+complete geometry-response = curvature response + B
+where B appears only if the physical domain independently admits such baseline content.
+This grouping makes the removal test meaningful. If B is genuinely part of the geometry-side burden, removing it need not erase geometry, source content, or the source/geometry relation itself. What should disappear is narrower: the ability of the geometry side to carry the full response required by the tested physical state. If nothing distinctive is lost, the proposed seat has not been established.
+The same reasoning requires the two principal sides to stand independently before their relation is tested. Complete geometry-response cannot mean merely “whatever equals the source side,” because that would allow the relation to define one of its own endpoints. Likewise, complete source-profile cannot mean “whatever balances geometry.” Each side must already carry a physically admitted burden before equationhood enters.
+For the geometry side, that burden is the complete admitted geometric response, including any baseline completion independently required at the declared scope. For the source side, it is the physical source profile with the distinctions the governing theory requires—rather than an undifferentiated scalar total.
+This independence creates genuine side failures. Geometry can remain physically meaningful while the complete geometry-response burden fails. Source content can remain physically meaningful while the complete source-profile fails. Those losses are different from failure of the relation between them.
+That distinction is what motivates separating geometry-dominant and growth/source-dominant information before asking whether one cosmological account can carry both. A combined fit can conceal whether two independently meaningful physical burdens actually agree, because the assumed relation may already be doing part of the work. The split test asks the sides to stand before reunion.
+Once the sides stand independently, the next question is whether they are merely compatible or genuinely related.
+The required relation is weaker than mutual causation and stronger than coexistence.
+Suppose the admitted source profile changes from R₀ to R₁ in a way relevant to the tested relation. The geometry side is then no longer being asked to answer the same source burden. Conversely, if the complete geometry response changes from L₀ to L₁, the source side no longer faces the same geometric burden.
+Thus
+R₀ → R₁
+changes the demand presented to L,
+while
+L₀ → L₁
+changes the demand presented to R.
+Nothing in this statement says what physical successor must occur. It does not say that one side uniquely determines the other. It says only that, inside the admitted source/geometry relation, each side changes what the other is being asked to answer.
+That two-way answerability explains why geometry and growth cannot be treated as unrelated consistency checks. They are observational approaches to two burdens that participate in one physical relation. If the independently inferred descriptions can be reconciled only by changing the seat of B or altering the relation itself, that difference carries physical information.
+The next distinction is between failure of a side and failure of the relation.
+Both complete geometry-response and complete source-profile can remain individually meaningful while a particular pair fails to form one valid source/geometry account. The physical relation architecture may also remain meaningful. What fails is this particular joint hold.
+A relation-level failure therefore has a specific shape: L survives as an intelligible geometry-side burden; R survives as an intelligible source-side burden; the relation architecture remains available; but L and R cannot be held together without erasing, changing, or reassigning one of the burdens under test.
+This is stronger than a bad numerical fit. It is also different from saying that GR has failed as a theory. The failure may be local to the proposed physical identification.
+For the dark-energy problem, this distinction makes the alternative seats operational. If geometry and source remain individually viable but one common B-bearing baseline account does not close, the unresolved burden has to be located somewhere. It may lie in B itself. It may require independent source-sector structure. It may require a modification of the source/geometry relation. Or the observations may not yet discriminate the possibilities.
+The experiment is therefore designed to locate the deficit rather than merely detect tension.
+A successful source/geometry relation also needs something that neither side carries alone.
+The relevant invariant here is not a numerical constant inserted in advance. It is the requirement that lawful re-expression of the same admitted physical state preserve the same joint source/geometry accounting burden.
+This becomes visible because the Λ-like contribution can be moved algebraically between sides. A B-bearing state may be written with B on the geometry side or represented through an effective source-side expression. If those are genuinely two formulations of the same physical state, the physical account cannot change merely because the bookkeeping changed.
+B cannot disappear in one representation.
+It cannot be counted twice in another.
+Its physical role cannot change solely because its algebraic position changed.
+And one representation cannot silently describe a different physical state while being treated as equivalent to the first.
+This invariant does not belong to the geometry side alone, because the test compares alternative placements across the relation. It does not belong to the source side alone for the same reason. Nor is it supplied merely by placing the two sides next to each other. It belongs to the relation between them.
+That is why representation invariance is part of the physical-identification test rather than a cosmetic mathematical preference.
+At this point the structural requirements can be summarized without introducing another physical hypothesis. The two sides stand independently. Their failures are distinguishable. Each changes the demand presented to the other inside the admitted relation. The relation can fail while both sides survive. And a successful relation carries joint invariant content that neither side owns alone.
+Only then does Structural Flow's Coherence criterion enter.
+Coherence asks whether already-qualified structures can be held as one system with shared invariant structure rather than merely remaining compatible pieces. Applied to the present problem, the question is whether the admitted geometry-response and source-profile burdens can be held as one source/geometry relation while preserving the joint accounting invariant just described.
+At the declared classical metric-GR role scope, physics already supplies successful source/geometry relation cases. Structural Flow therefore does not need to derive the Einstein field equation in order to classify the relation. Its narrower result is that the independently admitted relation has the structural qualifications required for strong equationhood: the two sides do not merely appear together in a formula; they possess independent standing, relation-specific answerability and failure, and shared invariant content capable of one coherent hold.[9]
+The mathematical equation remains physics-owned.
+So do its coefficients, solutions, regimes of validity, and empirical success.
+The structural result does one useful piece of work for the present problem: it removes generic source/geometry equationhood from the list of things dark energy itself has to explain.
+The dark-energy-sensitive contribution does not need to create the geometry side.
+It does not need to create the source side.
+It does not need to create their coupling.
+It does not need to create equationhood.
+And it does not need to supply the invariant that makes the generic source/geometry relation one coherent account.
+Once those burdens are removed, the dark-energy-specific question becomes much smaller.
+If a physical contribution B is independently identified, the baseline-seat hypothesis asks only whether B belongs inside complete geometry-response and survives the consequences of that placement. It should have a distinctive removal signature. It should participate in the source/geometry relation without becoming an independent third side. Its physical contribution should remain stable under equivalent mathematical representations. And the evidence should not instead require independent source-sector structure or modification of the source/geometry relation.
+Those are exactly the discriminations built into the experiment.
+The role of Structural Flow in this artifact is therefore not to provide a dark-energy model. It is to expose the minimum set of distinctions that have to survive before one physical placement can be treated as an identified object rather than as a convenient way of writing the equations.
+That structural work ends in an empirical question.
+Physics has to answer it.
+IV. The Frozen Identification Contract
+The structural derivation does not identify dark energy with B.
+It leaves a smaller question for observation:
+Does the dark-energy-sensitive physical contribution actually occupy the baseline geometry-side completion seat?
+That question can now be frozen before the evidence is asked to answer it.
+The contract contains four empirical burdens.
+E1 — Baseline-seat warrant. Independent physical evidence must support a dark-energy-sensitive contribution B whose role is not exhausted by the already-accounted ordinary source profile and which can occupy the baseline geometry-side completion seat. A mathematically available B is not enough; the physical contribution itself has to be warranted.
+E2 — Removal and necessity. With the ordinary source profile and the reference source/geometry relation retained, removing B must produce the distinctive deficit specified by the experiment. If no such loss appears, or if the deficit belongs only to another physical seat, the baseline identification does not close.
+E3 — Joint-accounting invariance. Geometry-sensitive, growth/source-sensitive, and joint observations must remain compatible with one B-bearing physical account, and equivalent mathematical representations of that same state must preserve the same inference. A contribution that appears, disappears, duplicates, or changes physical role merely because the bookkeeping changes fails this burden.
+E4 — Alternative-seat discrimination. The evidence must distinguish baseline geometry-side completion from an independent source-sector realization, a modification of the source/geometry relation, a bookkeeping artifact, or an unresolved mixed state. Agreement with Hᴮ is insufficient if another seat remains necessary or observationally indistinguishable under the frozen test.
+These burdens are conjunctive. A positive baseline-seat identification requires all four.
+This gives the experiment three legitimate outcomes.
+A positive result means that B is independently warranted, has the required removal signature, survives the joint-accounting tests, and remains preferred to the competing physical seats under the frozen discrimination. At the declared scope, the dark-energy-sensitive contribution then conforms to the baseline geometry-side completion identification.
+A negative result requires an actual violation of a necessary burden. The experiment may show that no distinct B is required, that the expected removal signature is absent, that geometry and growth require incompatible accounts, that independent source-sector structure is necessary, or that the reference source/geometry relation must be modified. Such a result rejects the B-seat identification at the tested scope. It does not erase the observed dark-energy phenomenon; it relocates the unresolved physical burden.
+An indeterminate result occurs when no required burden is violated but one or more cannot yet be decided. Insufficient precision, unresolved covariance, systematic uncertainty, observational degeneracy, mixed realizations, or an inadequate comparison family can all leave the identification open. The absence of a falsification is not converted into a positive result.
+The contract is frozen because these outcomes should change the evidentiary state, not the question after the result is known. A failed burden may motivate a new physical hypothesis or a new contract, but it does not authorize modification of the tested seat until the old one passes.
+The same contract has been encoded as an append to the current Structural Flow Universal Kernel and machine-checked cleanly against it. Its present machine state is Not Yet Adjudicable: the structural work required to formulate the identification has closed at the declared scope, while E1 through E4 remain empirical questions for physics.
+If future evidence discharges all four entry burdens, the frozen contract returns Structural Conforms for the proposed physical identification. If a required entry burden is violated, it returns No Lawful Translation for that identification. If required evidence remains open without violation, the contract remains Not Yet Adjudicable.
+Those machine dispositions are not additional physical claims. They preserve the distinction between a structurally well-formed question, a physical identification that has earned support, and one that has failed its required test.
+The detailed burden ledger, scope pins, human-to-machine correspondence, reopening conditions, and evidence-state mappings are carried in the accompanying human-readable contract companion and Lean contract append rather than repeated here.
+The anchor result is simpler:
+The source/geometry relation has been structurally located. The remaining dark-energy question is empirical: does the observed contribution occupy B's seat?
+The experiment is designed so that physics can answer yes, no, or not yet without changing what the question meant.
+V. Implementation, Scope, and What the Result Would Mean
+The proposed test does not require a new class of detector. Its principal observational ingredients already exist in modern cosmology: measurements of distance and expansion, measurements of structure growth, lensing and clustering information, and analyses that connect those channels. The experimental task is to reorganize those measurements around a different question.[10]
+An initial implementation can therefore begin with an independently specified reference/source anchor A together with existing public or reproducible likelihoods drawn from Type Ia supernovae, BAO and Alcock–Paczynski measurements, redshift-space and full-shape clustering analyses, weak-lensing and galaxy-clustering data, and other probes that can populate the geometry, growth/source, joint, and predeclared held-out removal roles defined above. The first implementation need not be the most statistically powerful one. Its immediate purpose is to demonstrate that the seat-discrimination protocol can be executed without allowing the model assumptions to manufacture the agreement being tested.[11]
+The geometry and growth/source analyses should therefore be built independently enough that each can fail without the other being redefined around it. Shared nuisance structure, overlapping survey volumes, calibration parameters, and cross-covariances cannot simply be ignored; where they materially couple the partitions, they must be modeled explicitly or routed into the joint analysis. The independence sought here is not fictional statistical isolation. It is independence of physical inference sufficient to prevent one side of the comparison from inheriting the answer from the other.
+The present experiment does not give Hᴮ a freely varying B(z). At its declared classical metric-GR scope, the tested baseline realization is Bμν = βgμν with constant β. Flexible redshift or scale reconstructions remain useful as falsification diagnostics: if the observations robustly require evolution that the constant baseline cannot carry, the experiment does not widen Hᴮ after the fact. The result instead pressures or defeats the tested seat and is adjudicated against the source-sector, modified-relation, mixed, or open alternatives.
+The decisive statistical thresholds are part of the empirical implementation rather than the structural claim. They should be calibrated through end-to-end simulations of the frozen hypotheses, including the principal systematic and covariance structures expected in the real analysis. The global error criterion, competitor-specific sensitivity envelope, and required statistical power must be declared before decisive unblinding. The structural derivation does not select a unique significance percentage; it requires only that a claimed exclusion or identification be supported by a predeclared criterion and by demonstrated power to make that discrimination.
+That separation between structural contract and empirical implementation is intentional.
+The contract says what the evidence must establish.
+The experiment derived here says how a particular data package can attempt to establish it.
+A later survey or improved analysis can therefore increase statistical power without changing what counts as E1, E2, E3, or E4. The contract remains fixed while compatible empirical implementations and data packages improve.
+A practical program could begin with a lower-power proof of method using available cosmological likelihoods and then repeat the same frozen identification test with progressively stronger data. Later spectroscopic, weak-lensing, clustering, supernova, and cross-correlation measurements can be incorporated as new data packages rather than as reasons to redefine the hypothesis after seeing the earlier result.[12]
+This matters because an indeterminate first test would not be surprising.
+Geometry and growth are already linked by the underlying cosmological model. Many observables mix the two. Systematic uncertainties can imitate discrepancies. Different physical realizations can remain observationally degenerate over limited ranges of redshift and scale. A first analysis may therefore show only that the present data cannot separate Hᴮ, Hˢ, and Hᴷ strongly enough.
+That would still be an informative result.
+It would identify which empirical burden remains open and which additional measurement would have to improve before the physical seat becomes adjudicable.
+A positive result would mean something narrower—and more useful—than “dark energy has been solved.”
+It would establish, at the declared observational and theoretical scope, that the dark-energy-sensitive contribution behaves as a baseline completion of the geometry-response side under the reference source/geometry relation. The contribution would have survived independent geometry and growth reconstruction, its removal would have produced the predicted distinctive deficit, equivalent representations would have preserved one physical account, and neither an independent source-sector degree of freedom nor a modified source/geometry relation would have remained necessary under the frozen comparison.
+That would locate the physical burden.
+It would not automatically determine why B has the measured magnitude it does. It would not establish a microscopic origin. It would not decide whether a deeper theory should describe that baseline through vacuum structure, emergent geometry, quantum effects, or another mechanism. It would not extend the tested result beyond the observational range and physical theory in which the identification was earned.
+Those would remain downstream questions.
+A negative result would be equally useful.
+If B is not independently required, the baseline seat loses its necessity claim. If geometry and growth require incompatible B-bearing accounts, one common baseline completion fails. If independent source-sector behavior is required, the burden moves toward Hˢ. If the reference source/geometry relation has to change, the burden moves toward Hᴷ. If a result requires several seats at once, the single-seat identification fails and a mixed physical description becomes the next object of study.
+The point of the contract is that none of those outcomes can be redescribed afterward as a weaker success for Hᴮ.
+A negative result therefore does not terminate the inquiry.
+It makes the next question more precise.
+An indeterminate result performs a third job. It marks the boundary between what is currently distinguishable and what remains observationally degenerate. The appropriate response is then not to select the preferred interpretation but to ask what additional measurement would break the remaining degeneracy. The next experiment can be derived from that failure in the same manner that the present experiment was derived from the unresolved seat question.
+This is the intended relationship between the structural work and empirical physics.
+Structural Flow has already done the part available to it: the generic source/geometry relation has been decomposed strongly enough to distinguish its sides, their failures, their mutual answerability, the failure of the relation itself, and the invariant content required for one coherent equation-shaped hold. Once that work is complete, the remaining dark-energy burden is not another structural declaration. It is an empirical identification.
+The current contract therefore stops where the evidence begins.
+Its four entry burdens remain open:
+* E1 asks whether the baseline seat is physically warranted.
+* E2 asks whether removing that seat produces its predicted distinctive loss.
+* E3 asks whether one B-bearing physical account survives independent probes and equivalent representations.
+* E4 asks whether the evidence actually distinguishes that seat from the serious alternatives.
+Those questions are sufficiently specific to fail.
+They are also sufficiently specific to close.
+That is the useful endpoint of the present work.
+The machine-checked contract currently returns Not Yet Adjudicable because physics has not yet discharged E1 through E4 under the frozen test. A future positive result can move the same contract to Structural Conforms. A violated required burden moves the proposed identification to No Lawful Translation at the tested scope. An unresolved burden leaves the contract open.
+Nothing in that architecture requires the answer to be Hᴮ.
+The value of the exercise is that the answer no longer has to remain a matter of placement convention or interpretive preference.
+The proposed experiment asks physics to decide where the dark-energy-sensitive contribution actually sits.
+________________
+Declaration of Generative AI and AI-Assisted Technologies 
+During the preparation and revision of this manuscript and its accompanying formal materials, the author used generative AI tools to assist with drafting support, language refinement, structural editing, experimental-design organization, formalization support, machine-audit organization, consistency checking, and clarity. All substantive arguments, scientific claims, experimental-design choices, formalization choices, scope decisions, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and accompanying formal materials and takes full responsibility for their content. 
+________________
+Where Does the Dark-Energy Contribution Sit?
+A Geometry–Growth Test of Baseline, Source-Sector, and Modified-Coupling Interpretations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signed,
+
+
+
+
+Rick
+________________
+[1] Sean M. Carroll, “The Cosmological Constant,” Living Reviews in Relativity 4, 1 (2001), DOI 10.12942/lrr-2001-1. 
+[2] Dragan Huterer and Daniel L. Shafer, “Dark energy two decades after: observables, probes, consistency tests,” Reports on Progress in Physics 81, 016901 (2018), DOI 10.1088/1361-6633/aa997e. 
+[3] Austin Joyce, Bhuvnesh Jain, Justin Khoury, and Mark Trodden, “Beyond the Cosmological Standard Model,” Physics Reports 568, 1–98 (2015), DOI 10.1016/j.physrep.2014.12.002; Mustapha Ishak, “Testing general relativity in cosmology,” Living Reviews in Relativity 22, 1 (2019), DOI 10.1007/s41114-018-0017-4. 
+[4] J. Muir et al. (DES Collaboration), “DES Y1 results: Splitting growth and geometry to test ΛCDM,” Physical Review D 103, 023528 (2021), DOI: 10.1103/PhysRevD.103.023528; Felicitas Keil, Isaac Tutusaus, and Alain Blanchard, “Growth, geometry, and early-universe split of the matter density parameter Ωm,” arXiv:2607.28326 (2026).
+[5] J. Muir et al. (DES Collaboration), “DES Y1 results: Splitting growth and geometry to test ΛCDM,” Physical Review D 103, 023528 (2021), DOI: 10.1103/PhysRevD.103.023528; T. M. C. Abbott et al. (DES Collaboration), “Dark Energy Survey Year 3 results: Cosmological constraints from galaxy clustering and weak lensing,” Physical Review D 105, 023520 (2022), DOI: 10.1103/PhysRevD.105.023520.
+[6] For methodological precedent for independently split geometry- and growth-associated cosmological quantities, see Muir et al., “DES Y1 results: Splitting growth and geometry to test ΛCDM,” Physical Review D 103, 023528 (2021), DOI: 10.1103/PhysRevD.103.023528, and Keil, Tutusaus, and Blanchard, “Growth, geometry, and early-universe split of the matter density parameter Ωm,” arXiv:2607.28326 (2026). The constant-amplitude βᴳ/βˢ split and its use for physical-seat discrimination are specific to the present work. 
+[7] Joyce et al., “Beyond the Cosmological Standard Model,” Physics Reports 568, 1–98 (2015), DOI: 10.1016/j.physrep.2014.12.002; Ishak, “Testing general relativity in cosmology,” Living Reviews in Relativity 22, 1 (2019), DOI: 10.1007/s41114-018-0017-4.
+[8] Rick - PraxisFoundry001, Foundational GR Translation Ledger under Structural Flow: A Role-Shape and Equation-Shape Support Artifact for the Light-Probe Experiment Packet, Zenodo, DOI: 10.5281/zenodo.20145254.
+[9] Rick - PraxisFoundry001, Coherence as Strong Equationhood: Side-Failures, Facing Conditions, and the Equationhood License under Structural Flow, Zenodo, DOI: 10.5281/zenodo.20173789.
+[10] Huterer and Shafer, “Dark energy two decades after: observables, probes, consistency tests,” Reports on Progress in Physics 81, 016901 (2018), DOI: 10.1088/1361-6633/aa997e; Euclid Collaboration, Y. Mellier et al., “Euclid – I. Overview of the Euclid mission,” Astronomy & Astrophysics 697, A1 (2025), DOI: 10.1051/0004-6361/202450810.
+[11] T. M. C. Abbott et al. (DES Collaboration), “Dark Energy Survey Year 3 results: Cosmological constraints from galaxy clustering and weak lensing,” Physical Review D 105, 023520 (2022), DOI: 10.1103/PhysRevD.105.023520; DESI Collaboration, “DESI DR2 results. II. Measurements of Baryon Acoustic Oscillations and Cosmological Constraints,” Physical Review D 112, 083515 (2025), DOI: 10.1103/tr6y-kpc6. DESI has also publicly released the DR2 cosmology chains and posterior-maximization products supporting these analyses.
+[12] Euclid Collaboration, Y. Mellier et al., “Euclid – I. Overview of the Euclid mission,” Astronomy & Astrophysics 697, A1 (2025), DOI: 10.1051/0004-6361/202450810; NSF–DOE Vera C. Rubin Observatory, “Action! NSF–DOE Vera C. Rubin Observatory Begins Capturing the Greatest Cosmic Movie Ever Made,” June 30, 2026.
